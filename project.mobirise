@@ -33,7 +33,8 @@
     "siteUrl": "undefined",
     "сanonical-url": "",
     "uniqCompNum": 39,
-    "versionPublish": "4.9.2"
+    "versionPublish": "4.9.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
