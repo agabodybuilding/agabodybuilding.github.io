@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "aga.stanislawska1",
-    "currentPage": "kontakt.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "siteUrl": "",
     "сanonical-url": "",
     "uniqCompNum": 39,
-    "versionPublish": "4.9.2",
+    "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "",
