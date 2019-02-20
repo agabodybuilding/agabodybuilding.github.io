@@ -144,7 +144,7 @@
             ".mbr-section-title": {
               "color": "#faaf40",
               "text-align": "left",
-              "font-size": "60px",
+              "font-size": "48px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
